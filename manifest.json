@@ -1,0 +1,10 @@
+{
+  "name": "João Norim Bandeira",
+  "short_name": "João Bandeira",
+  "start_url": "/~ei12022/personal",
+  "display": "standalone",
+  //"orientation": "portrait",
+  "background_color": "#222222",
+  "theme_color": "#222222"
+
+}
