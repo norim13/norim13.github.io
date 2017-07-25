@@ -329,3 +329,30 @@ div.margin-about{
   /*-webkit-animation-delay: 0.2s;*/
   /*-vendor-animation-iteration-count: infinite;*/
 }
+
+/*************************************/
+/* PROJECTS */ 
+@media (min-width: 768px) { 
+  .project-title{
+    margin-bottom: 5px;
+  }
+
+  .project-img-container{
+    display: block;
+  }
+}
+@media (max-width: 768px) { 
+  .project-img-container img{
+    margin: auto;
+  }
+}
+
+
+.project-title{
+  text-align: left;
+  margin-bottom: 10px;
+}
+
+.project-description{
+  margin-bottom: 5px;
+}
